@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>04F86372-BCF2-40FD-A683-D131EE380BE0</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Graph_Cut</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>446FB5B83C292BA59F57B197E4C23B9D2392546D</key>
+		<string>https://github.com/Rangozhang/Graph_cut.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Graph_Cut.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>446FB5B83C292BA59F57B197E4C23B9D2392546D</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/Rangozhang/Graph_cut.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>446FB5B83C292BA59F57B197E4C23B9D2392546D</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>446FB5B83C292BA59F57B197E4C23B9D2392546D</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Graph_Cut</string>
+		</dict>
+	</array>
+</dict>
+</plist>
